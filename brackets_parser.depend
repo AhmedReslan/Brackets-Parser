@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1760790103 source:d:\swift-act\certificats\cpp_course\brackets_parser\main.cpp
+	<iostream>
+	<unordered_map>
+	<stack>
+	<unordered_set>
+
